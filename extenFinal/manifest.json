@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 3,
+    "name": "$$Exchange",
+    "version": "1.2.3",
+    "description": "Currency Converter",
+    "icons": {
+        "16": "img/128pepe.png",
+        "48": "img/128pepe.png",
+        "128": "img/128pepe.png"
+      },
+    "action":
+    {
+        "default_icon":"img/128pepe.png",
+        "default_popup":"index.html"
+        
+    }
+
+
+}
